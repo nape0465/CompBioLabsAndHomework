@@ -1,4 +1,4 @@
-﻿
+
 # Natalie's Independent Project on Schistosomiasis Data
 
 ## Introduction
@@ -35,7 +35,8 @@ This data represents the relationship between plants/ physical features of snail
 
 ## Detailed Description of Analysis to be Done and Challenges Involved
 
-I would like to create visuals that explore which factors of snail habitat have the highest correlation with snail presence. Additionally, during this project, I would like to see if the schistosomiasis infections were related to the presence of the snail habitat features that the scientists were sampling. 
+I would like to create visuals that explore which nutrient and abiotic factors of have the highest correlation with snail presence. These factors include: pH, phosphate, nitrite, and nitrate. 
+
 
 
 
