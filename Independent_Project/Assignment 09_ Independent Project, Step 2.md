@@ -44,6 +44,8 @@ I found that there didn't seem to be any strong relationship between snail numbe
 
 This relates to my original question because it does not seem that abiotic factors influence snail population as much as the vegetation aspects that the original study focused on. 
 
+Below are the graphs that I created in R Studio by using ggplot. They display the relationships between the listed abiotic features that I studied as well as the correlating snail numbers. 
+
 ![Phosphate Graph](https://github.com/nape0465/CompBioLabsAndHomework/blob/main/Independent_Project/Graphs/Phosphate_Graph.pdf)
 
 ![Nitrate Graph](https://github.com/nape0465/CompBioLabsAndHomework/blob/main/Independent_Project/Graphs/Nitrate_Graph.pdf)
