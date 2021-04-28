@@ -1,6 +1,8 @@
 ﻿
 
 # How 4 Different Abiotic Factors Influence Bulinus spp. Snail Numbers in Senegalese Freshwater Ecosystems 
+##### Natalie Pelton
+##### Assignment 09- Independent Project Step 2
 
 ### Biological question
 
